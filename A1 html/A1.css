@@ -11,7 +11,16 @@ footer {
 h2 {
 	background-color: lightblue;
 	text-align: center
-	}	
+	}
+	
+div.col-sm-4 {
+    background-color: #ff0000;
+    width: 300px;
+    border: 10px solid #000000;
+    padding: 25px;
+    margin: 25px;
+}
+	
 	
 h4 {
 	background-color: lightblue;
