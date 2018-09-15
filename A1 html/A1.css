@@ -33,3 +33,7 @@ body {
     background-attachment: fixed;
     background-size: auto;
 }
+
+div.shopping-cart{
+	text-align: center
+}
